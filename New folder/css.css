@@ -227,3 +227,13 @@
   height: 170px;
   transform: rotate(1deg);
 }
+.anh3 {
+  position: absolute;
+  top: 341px;
+  right: 0;
+}
+.anh3 img {
+  width: 200px;
+  height: 160px;
+  transform: rotate(-1.3deg);
+}
